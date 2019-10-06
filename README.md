@@ -1,6 +1,6 @@
 # Data Journalism and D3
 
-![Bacteria Image](Images/bacteria1.jpg)
+![Bacteria Image](images/bacteria.webpjpg)
 
 In this assignment we explore a data set on the different bacteria that could call home the human belly button.
 A full stack application was developed to provide an easier way of traversing the data and learn about this thirlling topic. This stack was deployed, using heroku, to URL: https://magu-belly-diverse.herokuapp.com/
@@ -24,7 +24,7 @@ Run locally by:
 
 ## Built With
 * [python] (https://docs.python.org/3/) - version 3.6.2
-* [pandas](https://pandas.pydata.org/pandas-docs/stable/) - version 0.24.2
+* [pandas] (https://pandas.pydata.org/pandas-docs/stable/) - version 0.24.2
 * [sqlalchemy] (https://docs.sqlalchemy.org/en/13/) -- version 1.3.1
 * [Flask] (http://flask.palletsprojects.com/en/1.1.x/) -- version 1.0.2
 

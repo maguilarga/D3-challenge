@@ -26,13 +26,16 @@
 /* font size dependent on radius, see app.js */
 .stateText {
   font-family: sans-serif;
-  fill: #fff;
+  fill: black;
+  font-size: 10px;
   text-anchor: middle;
+  z-index: 10;
 }
 
 .stateCircle {
   fill: #89bdd3;
   stroke: #e3e3e3;
+  z-index: 5;
 }
 
 .chart {
@@ -67,4 +70,45 @@
   .aText {
     font-size: 13px;
   }
+}
+
+.corr_tit {
+  text-align: center;
+}
+
+.poverty_art_act {
+  display: block;
+}
+
+.poverty_art_ict {
+  display: none;
+}
+
+.age_art_act {
+  display: block;
+}
+
+.age_art_ict {
+  display: none;
+}
+
+.income_art_act {
+  display: block;
+}
+
+.income_art_ict {
+  display: none;
+}
+
+.tooltip {
+  position: absolute;
+  width: 90px;
+  height: 70px;
+  padding: 10px;
+  font: 12px sans-serif;
+  text-align: center;
+  color: white;
+  background: blue;
+  border: 0;
+  border-radius: 10px;
 }
