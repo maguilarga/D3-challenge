@@ -1,6 +1,6 @@
 # Data Journalism and D3
 
-![Bacteria Image](images/bacteria.webpjpg)
+![Bacteria Image](images/bacteria.webp)
 
 In this assignment we explore a data set on the different bacteria that could call home the human belly button.
 A full stack application was developed to provide an easier way of traversing the data and learn about this thirlling topic. This stack was deployed, using heroku, to URL: https://magu-belly-diverse.herokuapp.com/
